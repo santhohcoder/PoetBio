@@ -1,0 +1,18 @@
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.otherthanbutton{
+    margin-left: 100px;
+}
+.smallfont{
+    font-size: small;
+    color: grey;
+}
+.complete{
+    height: 2400px;
+   
+}
+.second{
+    height: 800px;
+}
